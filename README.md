@@ -1,7 +1,7 @@
 //닉네임대충 지었더니 댓글기능 테스트하는 사람들한테 멘션당해서 comment2 -> commentLee 닉변했습니다.
 
 - 🔭 I’m currently working on ... 쓸모없는 자격증들 따는중입니다.
-- - 🌱 I’m currently learning ... 백엔드 전반
+- 🌱 I’m currently learning ... 백엔드 전반
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=1231js)](https://solved.ac/1231js)
