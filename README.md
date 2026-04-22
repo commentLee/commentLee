@@ -1,6 +1,5 @@
 # 이주석 (Lee Jooseok)(=commentLee)
  
----
  
 ## Experience
  
