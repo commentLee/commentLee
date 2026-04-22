@@ -9,7 +9,7 @@
 | **[삼성전자 VD사업부 연계 프로젝트]** | VLM + RAG 기반 공정 이미지 분석 자동화. | 우수상 (2등) | 2026.02 ~ 04 | Python, VLM, RAG, LLM as a Judge |
 | **[Re:meet](https://youtu.be/q-osTdBBtCA?list=LL)** | 그리운 분과 사진을 찍을 수 있는 실시간 온라인 포토부스 서비스.  | 우수상 (2등) | 2026.01 ~ 02 | Java, Spring, WebSocket, WebRTC, Redis |
 | **[MINIBITE](https://www.youtube.com/watch?v=lykRT3MIipU)** | 위고비 사용자를 위한 식단 관리 및 커뮤니티 서비스. | - | 2025.12 | Java, Spring, RAG |
-| **[SSAFY 14기 AI 챌린지](https://github.com/jjoo-mi-jeong-seok/AI-Challenge)** | 이미지 기반 질의응답(VQA) 모델 개발 대회. A100 환경에 적합한 모델 탐색 및 선정 담당 | 244팀 중 4위 [docs](https://velog.io/@comment/A100-환경에서-VQA에-적합한-모델-찾기) | 2025.10 | Python, VLM |
+| **[SSAFY 14기 AI 챌린지](https://github.com/jjoo-mi-jeong-seok/AI-Challenge)** | 이미지 기반 질의응답(VQA) 모델 개발 대회. A100 환경에 적합한 모델 탐색 및 선정 담당 | 244팀 중 4위 [트러블슈팅](https://velog.io/@comment/A100-환경에서-VQA에-적합한-모델-찾기) | 2025.10 | Python, VLM |
 | **[배달공유 커뮤니티 '가치']** | 배달 주문을 함께할 사람을 모집하는 데스크톱 커뮤니티 앱 | - | 2022.04 ~ 06 | C#, WPF |
 | **[알고리즘 동아리 ALPS]** | 매주 알고리즘 학습 및 문제 풀이, 코딩테스트 대비 | - | 2021.03 ~ 12 | C++, JAVA |
 ---
